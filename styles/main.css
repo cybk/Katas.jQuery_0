@@ -1,0 +1,26 @@
+.mainContainer {
+    margin-top: 10px;
+    border-color: lightgray;
+    border-width: 2px;
+    border-style: solid;
+    height: 400px;
+    width: 850px;
+}
+
+.element {
+    position: inherit;
+    border-color: lightgray;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-table;
+    margin-left: 5px;
+    margin-top: 5px;
+    height: 50px;
+    width: 80px;
+    background-color: white
+}
+
+.selected{
+    border-color: firebrick;
+    border-width: 2px;
+}
